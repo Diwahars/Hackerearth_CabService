@@ -1,5 +1,5 @@
 ####
-This is hackerearth challange for Data-science
+This is hackerearth challenge for Data-science
 ####
 
 ##### Problem statement ######
