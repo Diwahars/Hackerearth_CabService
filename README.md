@@ -20,7 +20,7 @@ Given training cab service data set to predict fare amount
 5) find best model among all
 6) apply the selected model on test data and predict the fare amount
 
-###Created Regression model list
+### Created Regression model list
 1) Linear model regression
 2) Ploynomial regression
 3) Lasso
